@@ -2,7 +2,7 @@
 >  💻 Software Engineer | Android + IOS + React-Native!
 
 [![Linkedin: Rahul Ajmera](https://img.shields.io/badge/-Rahul%20Ajmera-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ajmera-41a383191/)
-[![Stack Overflow: shivoham-0](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/11762907/shivoham-0)
+[![Stack Overflow: shivoham-0](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/11762907/shivoham)
 
 
 Hi, I'm Rahul (React native developer), I'm an expert in Mobile applications, and I love working on challenging problems and learning new things. I try to do all kinds of things to keep myself busy I'm a passionate and experienced developer specializing in building Mobile applications using React Native
